@@ -68,8 +68,8 @@ typedef struct {
 
 /* Defined for sapi_gpio.h */
 
-//#define BOARD edu_ciaa_nxp
-
+#define BOARD edu_ciaa_nxp
+//#define BOARD ciaa_nxp
 typedef enum {
 
    // Configure GPIO pins for each board
